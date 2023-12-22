@@ -1,4 +1,4 @@
-# Watermelon Studios
+# Watermelon Studios 🍉
 Making summer last all year.\
 \
 The goal of Watermelon Studios is to create open source games, both digital and physical, as well as STEM learning tools.\
